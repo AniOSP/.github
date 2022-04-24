@@ -2,6 +2,10 @@
 
 -------------------------------
 
+AniOSP is an AOSP-based rom that prioritizes speed and butteriness, that comes out of the box with GApps, pixel goodies, and more to come.
+
+-------------------------------
+
 ### Wise words from our devs:
 
 #####     *what am i doing with my life - ech0*
