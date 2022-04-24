@@ -3,8 +3,11 @@
 
 -------------------------------
 
-# Wise words from our devs:
+AniOSP is a AOSP-based ROM (as previously stated) with fun stuffs like GApps, and a custom version page (yep, thats literally it right now.)
 
-### what am i doing with my life - ech0
-### i dont exist : / - john doe
-### never gonna give you up, never gonna let you down - Rick Astley
+-------------------------------
+### Wise words from our devs:
+
+#####     *what am i doing with my life - ech0*
+#####     *i dont exist : / - john doe*
+#####     *never gonna give you up, never gonna let you down - Rick Astley*
