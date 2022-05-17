@@ -6,5 +6,6 @@
 ### Wise words from our devs:
 
 #####     *what am i doing with my life - ech0*
+#####     *try renaming it to qti instead of generated - relms*
 #####     *i dont exist : / - john doe*
 #####     *never gonna give you up, never gonna let you down - Rick Astley*
